@@ -2,13 +2,15 @@
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+# Functionalities
 
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
-
+ - Music Player - Users can click on any song, and a music player will appear. The player must include basic controls such as the previous song, the next song, and pause/play buttons. Additional details such as the song’s name, author, volume, repeat, and duration controls are a plus.
+ - Homepage - Users can choose a genre and get the top songs for that genre
+- Explore - Users can select a country and get the top songs for that country
+- Music for Specific Country - Show the top songs from the user’s country
+- Artists Page - Users can see a list of the most famous artists
+- Artist Details Page - Users can see additional information about the artist and their most popular songs.
+- Song Details Page -Users can see additional information about the song, such as the song’s music video and lyrics and a list of similar songs.
 
 ## System Requirements
 
