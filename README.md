@@ -14,6 +14,7 @@ Develop an elegant React.js Music Application.
 
 ## Screenshot
 
+<img width="625" alt="MicrosoftTeams-image (12)" src="https://user-images.githubusercontent.com/6458802/227303308-e8e55501-d24f-4a01-8966-0867f46a9391.png">
 
 
    
